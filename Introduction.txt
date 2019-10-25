@@ -1,0 +1,8 @@
+Problem definition-
+
+Logic -
+Store all the capital cities of the country into a list. 
+Get the data about the distance from one city to all other cities and store the distances into another list. 
+Append these distances into a 2 dimensional matrix with rows and columns equal to the number of capital cities.
+Give this matrix as input to the dijkstra's function and get the minimum distance between source and the destination city.
+Also display the path traveled.
