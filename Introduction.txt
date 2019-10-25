@@ -1,4 +1,7 @@
-Problem definition-
+Problem Definition - 
+Read the distance data from Google Map related to all Capital Cities of states of India.
+Create Data Frame.
+Write a program in python to implement Single Source Shortest Path Algorithm.
 
 Logic -
 Store all the capital cities of the country into a list. 
