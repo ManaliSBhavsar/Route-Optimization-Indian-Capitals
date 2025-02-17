@@ -136,12 +136,3 @@ for i in range(len(my_list)):
         break
 
 g.dijkstra(graph,p)
-
-
-
-
-
-
-
-
-
