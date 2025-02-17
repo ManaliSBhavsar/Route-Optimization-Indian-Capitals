@@ -1,4 +1,5 @@
-# Python program to compute the shortest path between Indian state capitals using Single Source Shortest Path (SSSP) Algorithm. Fetched distance data from Google Maps, structured it into a DataFrame, and implemented algorithms like Dijkstra’s to optimize travel routes efficiently.
+# Python program to compute the shortest path between Indian state capitals
+Uses Single Source Shortest Path (SSSP) Algorithm. Fetched distance data from Google Maps, structured it into a DataFrame, and implemented algorithms like Dijkstra’s to optimize travel routes efficiently.
 
 Tech Stack:
 Python (for implementing the algorithm and the overall logic)
